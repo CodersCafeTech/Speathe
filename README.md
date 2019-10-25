@@ -4,7 +4,9 @@ An innovative and evolving communication method for the paralyzed who are gone s
 
 Hardware Components
 ---------------
+![alt text](https://hackster.imgix.net/uploads/attachments/575957/untitled-1_i6ofaysauf_7rMjIBfOOw.png?auto=compress%2Cformat&w=740&h=555&fit=max)
 ![alt text](https://hackster.imgix.net/uploads/attachments/591220/img_20180921_124837_nDEgO06IS0.jpg?auto=compress%2Cformat&w=740&h=555&fit=max)
+
 Walabot will listen to the breath and classify it to short and long breaths. Raspberry will assign dots and dashes to short and long breaths respectively and appends them to form an alphabet. There are collections of 3 lettered acronyms which have predefined meanings to simplify the communication. Raspberry will determine the word speathe by user and assigns a value for a variable and posts the data to the server running in python. The mobile application is developed using react-native which sends continuous requests to the server seeking the value of the variable. Whenever a not null value is received mobile app displays it. We also provide extension for people to reply back to paralyzed by posting the text typed by user back to server and pronouncing it loudly to the paralyzed.
 
 Software Developement
