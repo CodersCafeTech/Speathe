@@ -70,7 +70,7 @@ Software Developement
    
    Run the python files in Raspberry Pi and Set a static IP address for your Raspberry Pi. Change the IP address and port address in the JavaScript code and render the apk. In my case I have set IP address to 192.168.43.211 and the debug apk is given in the repository. After the apk is generated connect Raspberry Pi to android device via Wi-Fi and connect walabot to Raspberry Pi. Just open the application and start Speathing.
    Click to watch the demo
- [![Speathe Demo](https://github.com/CodersCafeCommunity/Speathe/blob/master/Android/Source/components/Thumbnail.png?auto=compress%2Cformat&w=680&h=510&fit=max)](http://coderscafe.cf/videos/Speathe_Demo.mp4)
+ [![Speathe Demo](https://github.com/CodersCafeCommunity/Speathe/blob/master/Android/Source/components/Thumbnail.png?auto=compress%2Cformat&w=100&h=100&fit=max)](http://coderscafe.cf/videos/Speathe_Demo.mp4)
 
 **Speathe Powered Wheelchair**
   Speathe is not a mere communication for the paralyzed. Using Speathe we are trying to build a wheelchair for the elderly and paralyzed. For that we need a wheelchair equipped with motors. The walabot translate breathe into words and motors connected with Raspberry Pi will move accordingly.
