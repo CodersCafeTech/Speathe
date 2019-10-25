@@ -75,6 +75,7 @@ Software Developement
  [![Speathe Demo](https://github.com/CodersCafeCommunity/Speathe/blob/master/Android/Source/components/Thumbnail.png?auto=compress%2Cformat&w=100&h=100&fit=max)](http://coderscafe.cf/videos/Speathe_Demo.mp4)
 
 **Speathe Powered Wheelchair**
+--------------------
 
   Speathe is not a mere communication for the paralyzed. Using Speathe we are trying to build a wheelchair for the elderly and paralyzed. For that we need a wheelchair equipped with motors. The walabot translate breathe into words and motors connected with Raspberry Pi will move accordingly.
 ![alt text](https://hackster.imgix.net/uploads/attachments/1004507/images_Hlr3dA4nc0.png?auto=compress%2Cformat&w=740&h=555&fit=max)
